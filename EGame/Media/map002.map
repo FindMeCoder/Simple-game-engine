@@ -1,0 +1,241 @@
+<Config Name="map002">
+    <Mesh>Terr_Desert_1</Mesh>
+    <Grid X="15" Z="14" Size="10" />
+</Config>
+<Nodes>
+    <Node Name="Rock#35">
+        <Mesh>Rock</Mesh>
+        <Position X="70.000000" Y="3.368059" Z="25.000000" />
+        <Map X="9" Z="14" Value="1" />
+    </Node>
+    <Node Name="Rock#36">
+        <Mesh>Rock</Mesh>
+        <Position X="-70.000000" Y="3.368059" Z="-5.000000" />
+        <Map X="6" Z="0" Value="1" />
+    </Node>
+    <Node Name="Tower#0">
+        <Mesh>Tower</Mesh>
+        <Position X="0.000000" Y="9.487063" Z="5.000000" />
+        <Map X="7" Z="7" Value="1" />
+    </Node>
+    <Node Name="Tree_2#46">
+        <Mesh>Tree_2</Mesh>
+        <Position X="13.019343" Y="7.125052" Z="14.524799" />
+        <Map X="8" Z="8" Value="0" />
+    </Node>
+    <Node Name="Tree_3#42">
+        <Mesh>Tree_3</Mesh>
+        <Position X="66.682449" Y="4.247236" Z="-3.846931" />
+        <Map X="6" Z="14" Value="0" />
+    </Node>
+    <Node Name="Tree_3#43">
+        <Mesh>Tree_3</Mesh>
+        <Position X="60.724785" Y="4.247236" Z="12.489494" />
+        <Map X="8" Z="13" Value="0" />
+    </Node>
+    <Node Name="Tree_3#45">
+        <Mesh>Tree_3</Mesh>
+        <Position X="48.307888" Y="4.247236" Z="16.755814" />
+        <Map X="8" Z="12" Value="0" />
+    </Node>
+    <Node Name="Tree_3#47">
+        <Mesh>Tree_3</Mesh>
+        <Position X="-49.113308" Y="4.247236" Z="-15.879158" />
+        <Map X="5" Z="2" Value="0" />
+    </Node>
+    <Node Name="Tree_3#48">
+        <Mesh>Tree_3</Mesh>
+        <Position X="-49.187775" Y="4.247236" Z="-2.903481" />
+        <Map X="6" Z="2" Value="0" />
+    </Node>
+    <Node Name="Tree_3#49">
+        <Mesh>Tree_3</Mesh>
+        <Position X="-56.327232" Y="4.247236" Z="-14.302986" />
+        <Map X="5" Z="1" Value="0" />
+    </Node>
+    <Node Name="Tree_3#50">
+        <Mesh>Tree_3</Mesh>
+        <Position X="-59.907478" Y="4.247236" Z="-5.699280" />
+        <Map X="6" Z="1" Value="0" />
+    </Node>
+    <Node Name="Tree_3#51">
+        <Mesh>Tree_3</Mesh>
+        <Position X="-19.899912" Y="4.247236" Z="39.377895" />
+        <Map X="10" Z="5" Value="0" />
+    </Node>
+    <Node Name="Tree_3#52">
+        <Mesh>Tree_3</Mesh>
+        <Position X="-11.524086" Y="4.247236" Z="42.163906" />
+        <Map X="11" Z="6" Value="0" />
+    </Node>
+    <Node Name="Tree_3#54">
+        <Mesh>Tree_3</Mesh>
+        <Position X="20.000000" Y="4.247236" Z="-45.000000" />
+        <Map X="2" Z="9" Value="0" />
+    </Node>
+    <Node Name="Tree_3#56">
+        <Mesh>Tree_3</Mesh>
+        <Position X="12.653542" Y="4.247236" Z="-36.580956" />
+        <Map X="3" Z="8" Value="0" />
+    </Node>
+    <Node Name="Tree_3#57">
+        <Mesh>Tree_3</Mesh>
+        <Position X="7.307236" Y="4.247236" Z="-47.995033" />
+        <Map X="2" Z="8" Value="0" />
+    </Node>
+    <Node Name="Tree_6#27">
+        <Mesh>Tree_6</Mesh>
+        <Position X="10.000000" Y="3.002275" Z="-5.000000" />
+        <Map X="6" Z="8" Value="0" />
+    </Node>
+    <Node Name="Tree_6#28">
+        <Mesh>Tree_6</Mesh>
+        <Position X="10.000000" Y="3.002275" Z="5.000000" />
+        <Map X="7" Z="8" Value="0" />
+    </Node>
+    <Node Name="Tree_6#29">
+        <Mesh>Tree_6</Mesh>
+        <Position X="0.000000" Y="3.002275" Z="15.000000" />
+        <Map X="8" Z="7" Value="0" />
+    </Node>
+    <Node Name="Tree_6#30">
+        <Mesh>Tree_6</Mesh>
+        <Position X="-10.000000" Y="3.002275" Z="5.000000" />
+        <Map X="7" Z="6" Value="0" />
+    </Node>
+    <Node Name="Tree_6#31">
+        <Mesh>Tree_6</Mesh>
+        <Position X="0.000000" Y="3.002275" Z="-5.000000" />
+        <Map X="6" Z="7" Value="0" />
+    </Node>
+    <Node Name="Tree_6#32">
+        <Mesh>Tree_6</Mesh>
+        <Position X="-10.000000" Y="3.002275" Z="-5.000000" />
+        <Map X="6" Z="6" Value="0" />
+    </Node>
+    <Node Name="Tree_6#33">
+        <Mesh>Tree_6</Mesh>
+        <Position X="50.000000" Y="3.002275" Z="45.000000" />
+        <Map X="11" Z="12" Value="0" />
+    </Node>
+    <Node Name="Tree_6#58">
+        <Mesh>Tree_6</Mesh>
+        <Position X="-49.013645" Y="3.002275" Z="29.469681" />
+        <Map X="9" Z="2" Value="0" />
+    </Node>
+    <Node Name="Tree_Death#34">
+        <Mesh>Tree_Death</Mesh>
+        <Position X="-60.000000" Y="10.532028" Z="55.000000" />
+        <Map X="12" Z="1" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#1">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="-20.000000" Y="2.143611" Z="-35.000000" />
+        <Map X="3" Z="5" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#11">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="30.000000" Y="2.143611" Z="35.000000" />
+        <Map X="10" Z="10" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#12">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="20.000000" Y="2.143611" Z="35.000000" />
+        <Map X="10" Z="9" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#13">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="10.000000" Y="2.143611" Z="35.000000" />
+        <Map X="10" Z="8" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#14">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="0.000000" Y="2.143611" Z="35.000000" />
+        <Map X="10" Z="7" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#16">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="-40.000000" Y="2.143611" Z="25.000000" />
+        <Map X="9" Z="3" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#17">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="-40.000000" Y="2.143611" Z="-25.000000" />
+        <Map X="4" Z="3" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#18">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="-40.000000" Y="2.143611" Z="15.000000" />
+        <Map X="8" Z="3" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#19">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="-40.000000" Y="2.143611" Z="5.000000" />
+        <Map X="7" Z="3" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#2">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="-10.000000" Y="2.143611" Z="-35.000000" />
+        <Map X="3" Z="6" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#20">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="-30.000000" Y="2.143611" Z="-35.000000" />
+        <Map X="3" Z="4" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#21">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="-30.000000" Y="2.143611" Z="35.000000" />
+        <Map X="10" Z="4" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#3">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="0.000000" Y="2.143611" Z="-35.000000" />
+        <Map X="3" Z="7" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#4">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="30.000000" Y="2.143611" Z="-35.000000" />
+        <Map X="3" Z="10" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#6">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="40.000000" Y="2.143611" Z="-25.000000" />
+        <Map X="4" Z="11" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#7">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="40.000000" Y="2.143611" Z="-15.000000" />
+        <Map X="5" Z="11" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#8">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="40.000000" Y="2.143611" Z="-5.000000" />
+        <Map X="6" Z="11" Value="1" />
+    </Node>
+    <Node Name="Wall_Big_2#9">
+        <Mesh>Wall_Big_2</Mesh>
+        <Position X="40.000000" Y="2.143611" Z="25.000000" />
+        <Map X="9" Z="11" Value="1" />
+    </Node>
+    <Node Name="Wall_Iron#22">
+        <Mesh>Wall_Iron</Mesh>
+        <Position X="-40.000000" Y="4.185782" Z="35.000000" />
+        <Map X="10" Z="3" Value="1" />
+    </Node>
+    <Node Name="Wall_Iron#23">
+        <Mesh>Wall_Iron</Mesh>
+        <Position X="-40.000000" Y="4.185782" Z="-35.000000" />
+        <Map X="3" Z="3" Value="1" />
+    </Node>
+    <Node Name="Wall_Iron#24">
+        <Mesh>Wall_Iron</Mesh>
+        <Position X="40.000000" Y="4.185782" Z="-35.000000" />
+        <Map X="3" Z="11" Value="1" />
+    </Node>
+    <Node Name="Wall_Iron#25">
+        <Mesh>Wall_Iron</Mesh>
+        <Position X="40.000000" Y="4.185782" Z="35.000000" />
+        <Map X="10" Z="11" Value="1" />
+    </Node>
+</Nodes>

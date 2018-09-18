@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EGame", "EGame\EGame.vcxproj", "{46828127-3109-4234-A8C8-B51B9C5F0B78}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ECore", "ECore\ECore.vcxproj", "{B90E95AB-6757-44EC-8E51-2CC1E66B3E17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EEngine", "EEngine\EEngine.vcxproj", "{A408F4BC-1DA4-4115-B4EF-E7859E2AA243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46828127-3109-4234-A8C8-B51B9C5F0B78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46828127-3109-4234-A8C8-B51B9C5F0B78}.Debug|Win32.Build.0 = Debug|Win32
+		{46828127-3109-4234-A8C8-B51B9C5F0B78}.Release|Win32.ActiveCfg = Release|Win32
+		{46828127-3109-4234-A8C8-B51B9C5F0B78}.Release|Win32.Build.0 = Release|Win32
+		{B90E95AB-6757-44EC-8E51-2CC1E66B3E17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B90E95AB-6757-44EC-8E51-2CC1E66B3E17}.Debug|Win32.Build.0 = Debug|Win32
+		{B90E95AB-6757-44EC-8E51-2CC1E66B3E17}.Release|Win32.ActiveCfg = Release|Win32
+		{B90E95AB-6757-44EC-8E51-2CC1E66B3E17}.Release|Win32.Build.0 = Release|Win32
+		{A408F4BC-1DA4-4115-B4EF-E7859E2AA243}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A408F4BC-1DA4-4115-B4EF-E7859E2AA243}.Debug|Win32.Build.0 = Debug|Win32
+		{A408F4BC-1DA4-4115-B4EF-E7859E2AA243}.Release|Win32.ActiveCfg = Release|Win32
+		{A408F4BC-1DA4-4115-B4EF-E7859E2AA243}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

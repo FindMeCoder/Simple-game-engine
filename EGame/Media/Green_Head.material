@@ -1,0 +1,20 @@
+
+material Green_Head
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.7 0.7 0.7 1
+			diffuse 0.7 0.7 0.7 1
+			specular 0.1 0.1 0.1 10 0
+
+			texture_unit
+			{
+				texture Tank_Head_Green.BMP
+			}
+		}
+
+	}
+
+}
